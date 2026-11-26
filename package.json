@@ -1,0 +1,9 @@
+{
+  "name": "rotowagon-public-card",
+  "version": "1.0.0",
+  "private": true,
+  "description": "RotoWagon Industrial Bakery Equipment — Customer-Facing Digital Visiting Card & 1:1 Product Showcase",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
