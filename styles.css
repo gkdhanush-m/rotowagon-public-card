@@ -1,4 +1,4 @@
-/* ==========================================================================
+﻿/* ==========================================================================
    RotoWagon QR Lead Platform & Digital Visiting Card — Stylesheet
    Clean Corporate Inter Typography | Zero Heavy Border Shadows | Strict 1:1 Slideshow
    ========================================================================== */
@@ -292,11 +292,11 @@ a, a:visited {
    ========================================================================== */
 .main-content {
   width: 100%;
-  padding-top: 64px;
+  padding-top: 56px;
 }
 
 .public-canvas-outer {
-  padding: 30px 16px 80px;
+  padding: 12px 14px 40px;
   display: flex;
   justify-content: center;
 }
@@ -347,7 +347,7 @@ a, a:visited {
 }
 
 .phone-scroll-content {
-  padding: 24px 20px 60px;
+  padding: 12px 14px 48px;
   display: flex;
   flex-direction: column;
   gap: 20px;
@@ -1921,7 +1921,7 @@ html, body {
   }
 
   .main-content {
-    padding-top: 96px;
+    padding-top: 56px;
   }
 
   .top-bar-inner {
